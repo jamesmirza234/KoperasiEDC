@@ -1,0 +1,13 @@
+D:\Program\KoperasiEDC\obj\Debug\KoperasiEDC.Resources.resources
+D:\Program\KoperasiEDC\obj\Debug\KoperasiEDC.vbproj.GenerateResource.cache
+D:\Program\KoperasiEDC\obj\Debug\KoperasiEDC.vbproj.CoreCompileInputs.cache
+D:\Program\KoperasiEDC\bin\Debug\KoperasiEDC.exe.config
+D:\Program\KoperasiEDC\bin\Debug\KoperasiEDC.exe
+D:\Program\KoperasiEDC\bin\Debug\KoperasiEDC.pdb
+D:\Program\KoperasiEDC\bin\Debug\KoperasiEDC.xml
+D:\Program\KoperasiEDC\obj\Debug\KoperasiEDC.exe
+D:\Program\KoperasiEDC\obj\Debug\KoperasiEDC.xml
+D:\Program\KoperasiEDC\obj\Debug\KoperasiEDC.pdb
+D:\Program\KoperasiEDC\obj\Debug\KoperasiEDC.FrmMenu.resources
+D:\Program\KoperasiEDC\obj\Debug\KoperasiEDC.FrmPayment.resources
+D:\Program\KoperasiEDC\obj\Debug\KoperasiEDC.vbprojAssemblyReference.cache

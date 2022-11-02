@@ -1,0 +1,4 @@
+172.17.20.176
+db_koperasi
+sa
+password.1
